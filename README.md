@@ -1,0 +1,1 @@
+This repository demonstrates two uncommon errors in Python that often surprise new programmers.  The `bug.py` file contains a function with error-prone code. `bugSolution.py` shows how to properly handle these potential issues with exception handling.
